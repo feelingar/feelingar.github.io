@@ -28,7 +28,7 @@ body {
 .intro{
     width: 100%;
     height: 100vh;
-    background-image: url(1.jpg);
+    background-image: url(hamster.jpg);
     background-size:cover;
     background-position: center;
     display:flex;
