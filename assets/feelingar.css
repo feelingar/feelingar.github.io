@@ -103,5 +103,5 @@ img:hover{
 }
 .favorite:hover{
     border: 4px dotted red;
-    transform: scale(1.9);
+    transform: scale(2);
 }
