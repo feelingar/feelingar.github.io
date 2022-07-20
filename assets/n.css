@@ -98,6 +98,8 @@ text-align: center;
 width: 100%;
 height: 100vh;
 animation: 8s infinite a;
+line-height: 1.8;
+overflow: hidden;
 }
 @keyframes a {
     0% {background: linear-gradient(to bottom right, blue, pink) ;}
