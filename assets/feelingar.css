@@ -37,9 +37,8 @@ body {
 }
 .intro_tittle{
    font-size: 70px;
-    text-transform: uppercase;
-    text-align: center;
-    color: #253b6d;
+   text-align: center;
+   color: #253b6d;
 }
 .intro_suptittle{
     font-size: 60px;
