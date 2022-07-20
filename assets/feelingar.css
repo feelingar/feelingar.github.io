@@ -99,6 +99,7 @@ img{
 }
 img:hover{
     transform: scale(1.3);
+    border: 3px dotted aqua;
 }
 .favorite:hover{
     border: 4px dotted red;
